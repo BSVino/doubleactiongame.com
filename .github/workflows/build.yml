@@ -34,7 +34,7 @@ jobs:
 
       - run: aws s3 sync htdocs s3://doubleactiongame.com --delete --content-type text/html
       - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.zip' --no-guess-mime-type --content-type="application/zip" --metadata-directive="REPLACE" --recursive
-      - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.js' --no-guess-mime-type --content-type="text/js" --metadata-directive="REPLACE" --recursive
+      - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.js' --no-guess-mime-type --content-type="text/javascript" --metadata-directive="REPLACE" --recursive
       - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.xml' --no-guess-mime-type --content-type="text/xml" --metadata-directive="REPLACE" --recursive
       - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.css' --no-guess-mime-type --content-type="text/css" --metadata-directive="REPLACE" --recursive
       - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.jpeg' --include '*.jpg' --no-guess-mime-type --content-type="image/jpeg" --metadata-directive="REPLACE" --recursive
