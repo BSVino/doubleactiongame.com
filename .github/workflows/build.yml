@@ -40,4 +40,4 @@ jobs:
       - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.jpeg' --include '*.jpg' --no-guess-mime-type --content-type="image/jpeg" --metadata-directive="REPLACE" --recursive
       - run: aws s3 cp s3://doubleactiongame.com/ s3://doubleactiongame.com/ --exclude '*' --include '*.png' --no-guess-mime-type --content-type="image/png" --metadata-directive="REPLACE" --recursive
 
-      - run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DOCSGL_DISTRIBUTION_ID }} --paths /*
+      - run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DOUBLEACTION_DISTRIBUTION_ID }} --paths /*
