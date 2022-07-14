@@ -47,7 +47,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @font-face
 {
 	font-family: Franchise;
-	src: url('http://www.doubleactiongame.com/wp/wp-content/themes/doubleaction/franchise-bold-hinted.ttf');
+	src: url('https://s3.amazonaws.com/doubleactiongame.com/wp/wp-content/themes/doubleaction/franchise-bold-hinted.ttf');
 }
 
 .share-post {
