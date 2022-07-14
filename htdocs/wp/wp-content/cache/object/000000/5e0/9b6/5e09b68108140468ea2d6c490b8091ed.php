@@ -1,0 +1,1 @@
+£ÿa<?php exit; ?>a:1:{s:7:"content";a:10:{s:4:"name";s:6:"Chrome";s:7:"version";s:12:"97.0.4692.98";s:8:"platform";s:7:"Android";s:10:"update_url";s:0:"";s:7:"img_src";s:0:"";s:11:"img_src_ssl";s:0:"";s:15:"current_version";s:0:"";s:7:"upgrade";b:0;s:8:"insecure";b:0;s:6:"mobile";b:1;}}

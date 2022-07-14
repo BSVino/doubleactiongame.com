@@ -1,0 +1,17 @@
+ò¼{b<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"481";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-05-07 21:14:12";s:13:"post_date_gmt";s:19:"2016-05-07 21:14:12";s:12:"post_content";s:2502:"That's right boogalooers it's bugfix time! TomyLobo has appeared out of the flames like Robert Patrick Jr in the final scenes of Terminator 2, delivering a chunky bunch of fixes to munch. Double Action has long been endeared with bugs ranging from the mundane to the insane, and this update smooths that ride leaving a clean guide for your styling-est slide.
+
+TomyLobo is the living embodiment of community-borne awesomeness. Two months ago he popped up on the Boogaloo radar with some nonchalant bugfixes and sensible github ideas and has since gone on to single handedly rejuvenate Double Action: Boogaloo with his select lines of code. Double Action has always relied on the skills of the people that play it, and will continue to do so into the future! If you can code, map, model, texture, sing, dance or stand on your head and move a box with the force, we want to hear from YOU! Get in contact via the community submissions forum on the DA steam discussions board, or add <a href="http://steamcommunity.com/id/brookesy">Stormy</a> on steam!
+
+As usual, server operatives will need to run the steam update on their various servers. The SimRai servers are up-to-date, as is the Through Human Eyes (T|H|E) server and Wizard of Distortions community server.
+
+In this update:
+<ul>
+	<li>Akimbo weapons now drop one by one. Duallies too inaccurate all of a sudden? Don't want to spend all that time reloading two pistolas? Throw one away and get back into the action thanks to this fancy gameplay tweak.</li>
+	<li>Overlapping slowmo now behaves properly. If you gain slowmo seconds during a slowmo activation, you can now disable your slowmo without re-activating the newly acquired slowmo seconds.</li>
+	<li>Prevent switching to grenades when picked up. Few things suck more than trying to grab a local grenade only to find your weapon has disappeared and is being replaced by said grenade. That no longer happens, so now there's PLENTY of things that suck more than that!</li>
+	<li>Fixed a bunch of ways to get stuck. Getting stuck is one of the few things that suck more!</li>
+	<li>Don't update style skill until after a respawn. No more nitro sploits! You know who you are...</li>
+</ul>
+And more bugfixes and changes. See the full changelog <a href="https://steamcommunity.com/linkfilter/?url=https://github.com/BSVino/DoubleAction/blob/v1.2.1/CHANGELOG.md">here</a>.
+
+Now it's time to kick bubble gum and chew some ass. And I'm all out of ass. See you on the servers this weekend ;)";s:10:"post_title";s:22:"Bugfix Update Now Live";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"bugfix-update-now-live";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-05-07 21:14:12";s:17:"post_modified_gmt";s:19:"2016-05-07 21:14:12";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:38:"http://www.doubleactiongame.com/?p=481";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

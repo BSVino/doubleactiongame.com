@@ -1,0 +1,26 @@
+s|nb<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:99;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-06-19 19:58:35";s:13:"post_date_gmt";s:19:"2014-06-19 19:58:35";s:12:"post_content";s:4252:"<h1>Hot From The Press</h1>
+Some things the press have said about Double Action:
+
+Youtubers: <a href="http://youtu.be/KTsphcJw_Es">PewDiePie</a> <a href="https://t.co/dylhJYfnyy">Squeezie</a> <a href="https://www.youtube.com/watch?v=_TT-grnoG8A">GassyMexican</a> <a href="https://www.youtube.com/watch?v=JHKGg_mBPd0">Star</a> <a href="http://www.twitch.tv/vinesauce/b/555020155">VineSauce</a> <a href="http://t.co/Nsr2GxE1b8">Vinesauce again</a> <a href="https://www.youtube.com/watch?v=qCDqDA-sFUU">TheRPGMinx</a> <a href="https://www.youtube.com/watch?v=TGy_XfqRyBs">EatMyDiction</a> <a href="https://www.youtube.com/watch?v=PRhWwcl-xcc">EatMyDiction again</a> <a href="https://www.youtube.com/watch?v=Bm15fBIyOZc">Jerma</a> <a href="https://www.youtube.com/watch?v=CBXAgNekzyQ">AllShamNoWow</a> (DA gave his life meaning) <a href="https://www.youtube.com/watch?v=_kpQCFtQ9Qg">Sips</a> <a href="https://www.youtube.com/watch?v=oebZc32erg4">SA MODY</a> <a href="https://www.youtube.com/watch?v=FnelFRY30QY">GoldGlove</a> <a href="https://www.youtube.com/watch?v=dhNzM92y230">FullTV</a>
+
+<a href="https://www.youtube.com/watch?v=wAzqHERO23A">Double Action: Boogaloo - Gameplay First Look</a> - MMOBomb - <em>Yeah, this one's going to suck some time out of my life.</em>
+
+<a href="http://www.wired.com/2014/10/double-action-boogaloo/">Double Action: Boogaloo Is a Free-to-Play Multiplayer Shooter With Serious Style</a> - Wired - <em>Think slow-motion sideways dives around corners, firing two golden pistols as a flock of doves takes flight behind you.</em>
+
+<a href="http://www.doubleactiongame.com/wp/wp-content/uploads/2014/10/dab2.jpg">PC Gamer Magazine</a> - PC Gamer - <em>It's never explained where all the doves are coming from.</em>
+
+<a href="http://www.pcgamer.com/2014/08/11/mod-of-the-week-double-action-boogaloo-for-half-life-2/">Mod of the Week: Double Action Boogaloo, for Half-Life 2</a> - PC Gamer - <em>Throw in some of Jon Woo's flapping doves and a few trench coats from The Matrix, and you've got a frenetic multiplayer action game consisting of nothing of movie trailer moments.</em>
+
+<a href="http://lookrobot.co.uk/2014/08/07/double-action-boogaloo/">Double Action Boogaloo: The game I longed for when I was 18</a> - Look, Robot - <em>It is a ridiculous, wonderful thing.</em>
+
+<a href="http://games.on.net/2014/08/double-action-boogaloo-the-free-to-play-homage-to-john-woo-and-the-matrix-is-available-now/#respond" target="_blank">Double Action Boogaloo, the free-to-play homage to John Woo and The Matrix, is available now</a> - Games.on.net - <em>This is what July and August is reserved for. Awesome games like this.</em>
+
+<a href="http://www.joystiq.com/2014/08/04/double-action-is-a-shooter-dictated-by-the-rule-of-cool/">Double Action is a shooter dictated by the Rule of Cool</a> - Joystiq - <em>Do you long for the days of bullet-time and John Woo-style spontaneous dove-bustion? Are you a cool guy who doesn't look at explosions?</em>
+
+<a href="http://games.on.net/2014/07/double-action-is-the-free-90s-action-movie-slow-mo-fps-missing-from-your-empty-life/">Double Action is the free 90′s action movie slow-mo FPS missing from your empty life</a> - Games.on.net - <em>Your Thursday going a bit slow? It could be going slower, if you were playing Double Action and you did a sideways dive off a building in slow-motion, firing your dual pistols John Woo style at your friend’s head.</em>
+
+<a href="http://www.alphabetagamer.com/double-action-boogaloo-beta-download/">Double Action Boogaloo – Beta Download</a> - Alpha Beta Gamer - <em>"...  more slow motion duel-wielding diving, flipping, sliding and shooting than in John Woo's wildest dreams."</em>
+
+<a title="Permanent Link to John Woo-Hoo: Double Action Boogaloo Is Free, Out Now" href="http://www.rockpapershotgun.com/2014/07/02/john-woo-hoo-double-action-boogaloo-is-free-out-now/">John Woo-Hoo: Double Action Boogaloo Is Free, Out Now</a> - Rock Paper Shotgun - <em>[Their trailer] is a neat bit of editing.</em> ( :3 - Vino )
+
+<a href="http://www.pcgamer.com/2013/03/11/double-action-boogaloo-dives-onto-kickstarter-with-playable-pre-alpha/">Double Action: Boogaloo dives onto Kickstarter with playable pre-alpha</a> - PC Gamer";s:10:"post_title";s:7:"Reviews";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:7:"reviews";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-12-13 02:44:48";s:17:"post_modified_gmt";s:19:"2014-12-13 02:44:48";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:43:"http://new.doubleactiongame.com/?page_id=99";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

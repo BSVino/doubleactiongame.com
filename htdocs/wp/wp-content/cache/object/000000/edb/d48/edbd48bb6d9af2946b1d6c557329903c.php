@@ -1,0 +1,8 @@
+Yҋb<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:212;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-06-26 01:05:06";s:13:"post_date_gmt";s:19:"2014-06-26 01:05:06";s:12:"post_content";s:610:"<h1>Source FilmMaker for Double Action</h1>
+You can prepare Source FilmMaker for use with Double Action in one easy step:
+<ol>
+	<li>Navigate to your "dab" folder (usually in C:\Program Files\Steam\steamapps\sourcemods\dab) and double click the "copy_to_sfm.bat" file.</li>
+</ol>
+Now wait for that to finish and you're done! Next time you run SFM, all of the character models will be available for you to use.
+
+Note that the character models will not be rigged, this video will show you how to load a rig for the character models: <a href="http://youtu.be/ccBNo95XfGU">Double Action Animations in SFM</a>";s:10:"post_title";s:34:"Source FilmMaker for Double Action";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:3:"sfm";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-06-26 01:05:06";s:17:"post_modified_gmt";s:19:"2014-06-26 01:05:06";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:44:"http://www.doubleactiongame.com/?page_id=212";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

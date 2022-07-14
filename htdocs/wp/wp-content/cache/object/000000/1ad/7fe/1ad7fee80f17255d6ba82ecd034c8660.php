@@ -1,0 +1,12 @@
+oåb<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:52;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2013-11-05 16:37:10";s:13:"post_date_gmt";s:19:"2013-11-05 16:37:10";s:12:"post_content";s:1520:"<p>
+	At first I released an Alpha version. It was lacking in features but the gameplay was there. Then I released a Beta version. The features were there but it was lacking in gameplay. So instead of finishing the game I released an Omega version, which was actually pretty good, I thought. Now it seems as though the more Greek letters we use, the better our game gets! I think the quality increases are probably because of the Greek letters, and maybe might also have something to do with all the work we put into it. Today I&#39;m releasing the Delta version, which means the quality level should be somewhere between &quot;Acceptable&quot; and &quot;Gary Oldman&#39;s performance in The Fifth Element.&quot;
+</p>
+
+<p>
+	The major improvements in the Delta version are the addition of a Capture the Briefcase mode and a burst-fire M16, but there&#39;s lots of other stuff in it too. You can download the Delta version <a href="http://forums.doubleactiongame.com/viewtopic.php?f=16&amp;t=355">from this thread</a>. There will be a playtest all day Saturday.
+</p>
+
+<p>
+	And just a few reminders: You can follow development of Double Action by <a href="http://www.doubleactiongame.com/feed/">subscribing to this feed</a>, <a href="http://twitter.com/VinoBS">following me on Twitter</a>, or <a href="http://forums.doubleactiongame.com/index.php">reading the forums</a>. Anybody can help in the development of Double Action, if you have some skills and want to contribute, introduce yourself in the development forum.
+</p>
+";s:10:"post_title";s:22:"Version Delta Released";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"version-delta-released";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-11-05 16:37:10";s:17:"post_modified_gmt";s:19:"2013-11-05 16:37:10";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:37:"http://www.doubleactiongame.com/?p=52";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

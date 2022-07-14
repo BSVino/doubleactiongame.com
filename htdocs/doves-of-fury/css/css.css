@@ -1,0 +1,228 @@
+@font-face {
+	font-family: 'Franchise';
+		src: url('./../fonts/Franchise-Bold.eot');
+		src: url('./../fonts/Franchise-Bold.eot?#iefix') format('embedded-opentype'),
+		url('./../fonts/Franchise-Bold.woff2') format('woff2'),
+		url('./../fonts/Franchise-Bold.ttf') format('truetype'),
+		url('./../fonts/Franchise-Bold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Haettenschweiler';
+    src: url('./../fonts/Haettenschweiler.woff2') format('woff2'),
+        url('./../fonts/Haettenschweiler.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body {
+	background-color: #3f3f3f;
+}
+
+.threadplate {
+	background-image: url('../img/threadplate_large.jpg');
+	background-position: center center;
+}
+
+.light-threadplate {
+	background-image: url('../img/threadplate_seamless.jpg');
+	background-position: center center;
+}
+
+.panel-inset {
+	background-image: url('../img/panel-inset-bg.jpg');
+}
+
+a {
+	color: #ffb600;
+}
+
+h1, h2, h6 {
+	font-family: Franchise;
+}
+
+h1.blast {
+	font-size: 48px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 62px;
+}
+
+h2 {
+	font-size: 32px;
+	margin-bottom: 8px;
+}
+
+h3 {
+	font-family: Haettenschweiler;
+	font-size: 42px;
+	font-weight: 100;
+}
+
+
+* {
+	color: #fff;
+}
+
+.header * {
+	color: #ffb600;
+}
+
+.header {
+	text-align: center;
+	position: relative;
+}
+
+.header {
+	padding: 80px 0px;
+}
+
+.header h1 {
+    line-height: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 110px;
+    font-size: 120px;
+}
+
+.header h3 {
+	position: relative;
+	z-index: 2;
+}
+
+.header table {
+	margin: 40px 0px;
+}
+
+.scroll-down-silly {
+	background: rgb(216,164,2);
+	background: linear-gradient(180deg, rgba(216,164,2,1) 0%, rgba(225,203,39,1) 100%);
+}
+.scroll-down-silly img {
+	height: 75px;
+	width: auto;
+}
+
+.demarc {
+	background-image: url('../img/demarcation.jpg');
+	background-size: contain;
+	height: 24px;
+}
+.demarc h1 {
+    position: relative;
+    top: -84px;
+    background-image: url('../img/plate.png');
+    background-size: contain;
+    display: inline-block;
+    background-repeat: no-repeat;
+    padding: 50px;
+    line-height: 0;
+}
+.demarc h1.plate2 {
+    background-image: url('../img/plate2.png');
+}
+
+/*.header img {
+	width: 100%; 
+    position: relative;
+	margin-top: -180px;
+	z-index: 1;
+    margin-bottom: -50px;
+}*/
+
+.tickertape {
+	font-family: Haettenschweiler;
+	color: #000;
+	background: #a5a5a5;
+	font-size: 55px;
+	width: 200%;
+	height: 57px;
+	position: relative;
+	left: -50%;
+	right: -50%;
+	padding: 0;
+	line-height: 0.9;
+	font-weight: bold;
+	word-spacing: 3px;
+	bottom: 0px;
+	background-image: url('../img/just-doves-of-fury.jpg');
+	margin-top: 40px;
+}
+
+img.fullwidth {
+	width: 100%;
+}
+
+table.borderless {
+	width: 100%;
+}
+table.borderless td {
+	text-align: center;
+	font-family: Franchise;
+	text-transform: uppercase;
+	font-size: 62px;
+}
+
+.h-100-p {
+	height: 126px;
+	width: auto;
+}
+
+.w-100 {
+	width: 100%;
+}
+
+.x-hidden {
+	overflow-x: hidden;
+}
+
+.py-5 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.my-5 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.mt-5 {
+	margin-top: 50px;
+}
+
+.text-shadow-1 {
+	text-shadow: 0px 12px 18px rgb(0 0 0 / 100%);
+}
+
+.text-shadow-2 {
+	text-shadow: 0px 4px 8px rgb(0 0 0 / 70%);
+}
+
+.text-center {
+	text-align: center;
+}
+
+.splodey-bottom-left {
+    background-image: url(../img/splodey-bottom-left.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 40%;
+    margin-bottom: -50px;
+    padding-bottom: 50px;
+}
+	
+.footer {
+	background: #0f0f0f;
+	color: white;
+	padding: 80px;
+	font-family: Franchise;
+	font-size: 32px;
+	text-align: center;
+}

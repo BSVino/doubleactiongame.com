@@ -1,0 +1,15 @@
+öïyb<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:289;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-08-09 18:08:55";s:13:"post_date_gmt";s:19:"2014-08-09 18:08:55";s:12:"post_content";s:2300:"The last week has been a trip. We released the game, we got Greenlit, we got covered by a bunch of news outlets including <a href="http://www.pcgamer.com/2014/08/04/double-action-boogaloo-released-is-a-spiritual-successor-to-the-specialists-mod/">PC Gamer</a> and <a href="http://www.bluesnews.com/s/153816/double-action-boogaloo-released">Blue's News</a>, a few <a href="https://www.youtube.com/watch?v=PRhWwcl-xcc&amp;list=UU0KKGJKOJl8N0m-ymVbzmrw">famous</a> <a href="https://www.youtube.com/watch?v=qCDqDA-sFUU">internet</a> <a href="http://www.twitch.tv/vinesauce/b/555020155">personalities</a> played the game, and I found <a href="http://lookrobot.co.uk/2014/08/07/double-action-boogaloo/">one very insightful review</a>. A record number of people have been playing the game and the leaderboard has been completely filled up with style.
+
+I've gotten a lot of questions about what will happen with DA in the future. We're going to be releasing the Steam version in early September, as I'll be on vacation in the last week of August. It will have some gameplay fixes (too many grenades!) and a our mapper has been working on a ton of graphical updates to the maps that will arrive in the Steam version. We're also planning an OSX release.
+
+As for what happens after that, the DA team plans on continuing to work on DA for as long as people are playing, and people are definitely playing. We're currently aiming for the next major release some time this winter.
+
+If you think you can help with Double Action development, have a look at our <a href="http://www.doubleactiongame.com/workshop">workshop page</a> and introduce yourself on <a href="http://forums.doubleactiongame.com/">our forums</a>. We're especially looking for a good character artist and character animator.
+
+A few notes on some problems people have been having.
+<ul>
+	<li>If the game runs slow for you, try running the commands "da_ssao 0" and "da_pretty_pixels 0" in the console.</li>
+	<li>If you're having trouble loading the game, try validating the cache for Source SDK Base 2013 Multiplayer.</li>
+	<li>If you're still having trouble loading the game, try deleting the file "libcef.dll" in your Source SDK Base 2013 Multiplayer directory.</li>
+</ul>
+These problems and more will be address in the Steam release.";s:10:"post_title";s:27:"The Future of Double Action";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:27:"the-future-of-double-action";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-08-09 18:11:45";s:17:"post_modified_gmt";s:19:"2014-08-09 18:11:45";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:38:"http://www.doubleactiongame.com/?p=289";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,10 @@
+t|nb<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:89;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-06-19 17:53:43";s:13:"post_date_gmt";s:19:"2014-06-19 17:53:43";s:12:"post_content";s:1197:"<h1>Frequently Asked Questions</h1>
+<strong>Is this game free?</strong> This game is free and we don't intend to ever sell it. It will never have ads. We may do microtransactions in the future, but these will never be pay-to-win.
+
+<strong>Will this game be available for OS X?</strong> Yes, as soon as we find a team member who can maintain an OSX build. If you are or think you know such a person, please <a href="http://steamcommunity.com/id/Vino">contact me</a>.
+
+<strong>Are there bots?</strong> There are bots if you want there to be bots. While you're in a game press the escape key and choose "CALL A VOTE". You can vote to add or kick bots. If you know how to use the console, you can type "bot_quota #" to get as many bots as you like.
+
+<strong>Will this game be available in my native language?</strong> We hope to make a language pack for other languages available in the future. If you think you can assist with translation efforts, please <a href="http://steamcommunity.com/id/Vino">contact me</a>.
+
+<strong>How do I set up a server?</strong> We've created a <a href="http://www.doubleactiongame.com/serverguide">server setup guide</a> to help guide you through this process.";s:10:"post_title";s:3:"FAQ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:3:"faq";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-06-20 00:05:06";s:17:"post_modified_gmt";s:19:"2014-06-20 00:05:06";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:43:"http://new.doubleactiongame.com/?page_id=89";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

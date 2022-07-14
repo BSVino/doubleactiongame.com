@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11"><link rel="stylesheet" type="text/css" href="http://www.doubleactiongame.com/wp/wp-content/cache/minify/000000/VYpRCsIwEAUvVPel4IXSdEm3JFnbl4C9vSII-jfMTMDqYykaUzdvyNr0tOSNPziF_4n9KjoBcY9Pye75XR5GSV4_DsUWYj-GntcwzDIHuaNvWpVgde9bU36P2zBJ5As.css" media="all" />
+
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Double Action</title>
+
+<link rel="stylesheet" href="/wp/wp-content/twentyfourteen/style.css" type="text/css" media="screen" />
+<link rel="pingback" href="http://www.doubleactiongame.com/wp/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="Double Action &raquo; Feed" href="http://www.doubleactiongame.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Double Action &raquo; Comments Feed" href="http://www.doubleactiongame.com/comments/feed/" />
+
+
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://www.doubleactiongame.com/wp/wp-content/themes/doubleaction/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<script type="text/javascript" src="http://www.doubleactiongame.com/wp/wp-content/cache/minify/000000/Ky_QLy_QzcxLzilNSS3WzwKiwtLUokoopVOOX143NzO9KLEkVS83Mw8A.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.doubleactiongame.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.doubleactiongame.com/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body class="home blog custom-background group-blog masthead-fixed list-view full-width grid">
+
+
+<script>
+$( document ).ready(function() {
+
+$('.navlink').hover( 
+  function() {
+    $(this)
+      .css('color','white')
+      .animate({'color': '#f5b830'}, 150);
+  },
+  function() {
+    $(this)
+      .animate({'color': 'white'}, 150);
+  }
+);
+
+$('.menulevel2').hover( 
+  function() {
+    $(this)
+      .css('color','white')
+      .animate({'color': '#f5b830', 'padding-left': '20px'}, 150);
+  },
+  function() {
+    $(this)
+      .animate({'color': 'white', 'padding-left': '0px'}, 150);
+  }
+);
+
+$('a').hover( 
+  function() {
+	if ( $( this ).hasClass( "blogtitle" ) || $( this ).hasClass( "navlink" ) || $( this ).hasClass( "whitelink" ) )
+		return;
+
+    $(this)
+      .css('color','#b67e00')
+      .animate({'color': '#ffb000'}, 150);
+  },
+  function() {
+	if ( $( this ).hasClass( "blogtitle" ) || $( this ).hasClass( "navlink" ) || $( this ).hasClass( "whitelink" ) )
+		return;
+
+    $(this)
+      .animate({'color': '#b67e00'}, 150);
+  }
+);
+
+$('.blogtitle').hover( 
+  function() {
+    $(this)
+      .css('color','#f5b830')
+      .animate({'color': 'white'}, 150);
+  },
+  function() {
+    $(this)
+      .animate({'color': '#f5b830'}, 150);
+  }
+);
+
+$('.whitelink').hover( 
+  function() {
+    $(this)
+      .css('color','white')
+      .animate({'color': '#f5b830'}, 150);
+  },
+  function() {
+    $(this)
+      .animate({'color': 'white'}, 150);
+  }
+);
+
+$("ul.dropdown li").hover(
+	function() {
+	    $(this).addClass("hover");
+	    $('ul:first', this).css('visibility', 'visible');
+	},
+	function() {
+	    $(this).removeClass("hover");
+    	$('ul:first', this).css('visibility', 'hidden');
+	}
+);
+
+
+});
+</script>
+
+
+<div id="header" role="banner">
+        <a href="/"><div id="logo"></div></a>
+        <div id="nav">
+
+		    <ul class="dropdown">
+		    	<li><a class="menulevel1 whitelink navlink" href="/blog">NEWS</a></li>
+		    	<li><a class="menulevel1 whitelink navlink" href="/game">GAME</a>
+		    		<ul class="sub_menu">
+		    			<li><a href="/game" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">MEDIA</a></li>
+		    			<li><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=332224979" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">QUICK PLAY GUIDE</a></li>
+		    			<li><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=332255864" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">SERVER SETUP GUIDE</a></li>
+		    		</ul>
+		    	</li>
+                <li><a class="navlink" href="/workshop">WORKSHOP</a>
+		    		<ul class="sub_menu">
+		    			<li><a href="/coding" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">CODING</a></li>
+		    			<li><a href="/mapping" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">MAPPING</a></li>
+		    			<li><a href="/modeling" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">MODELING</a></li>
+		    		</ul>
+		    	</li>
+		    	<li><a class="menulevel1 whitelink navlink" href="http://forums.doubleactiongame.com/">COMMUNITY</a>
+		    		<ul class="sub_menu">
+		    			<li><a href="http://steamcommunity.com/app/317360" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">STEAM GAME HUB</a></li>
+		    			<li><a href="http://steamcommunity.com/app/317360/discussions/" class="menulevel2 whitelink" style="font-size: 22px; text-align: left; margin: 0px; margin-left: 15px; padding: 0px;">FORUMS</a></li>
+		    		</ul>
+		    	</li>
+		    </ul>
+        </div>
+</div>
+
+<div id="page">
+
+
+
+
+
+        
+			<iframe id="frontvideo" width="640" height="360" style="margin-top: 30px;" src="//www.youtube.com/embed/btzVypzt5nI" frameborder="0" allowfullscreen></iframe>
+
+			<div id="download_outer"><a id="download_inner" class="whitelink" href="http://store.steampowered.com/app/317360">Completely Free!<br /><span id="download_now">DOWNLOAD NOW</span></a><center>Requires Steam</center></div>
+
+			<br clear="both" />
+
+        
+        <div id="content" role="main"><div id="content_inner">
+
+		    
+				<div id="blogbox">
+			                			                    <p><a class="blogtitle" href="http://www.doubleactiongame.com/double-action-1-3-i-said-id-be-back/">Double Action 1.3: I Said I&#8217;d Be Back!</a><br /><span class="blogbyline">April 8, 2018 - by Vino</span></p>
+			                    <p><p>What&#8217;s this? A mini-map-emission for our most dedicated Boogalooers? Damn Straight.</p>
+<p>Bring it in tight for the latest map from Doum &#8211; a prison-themed shoot-em-up in the vein of your favourite badass brawlers. With tight hallways to concentrate the boom boom and high ceilings to exacerbate the zoom zoom, this map is a welcome addition to the Double Action library. Test your mettle in the showers but don&#8217;t drop the soap! You&#8217;ll have some slow-mo floatin gun totin drop soapin action heroes vying for your weak spots. Keep your head on a swivel and don&#8217;t spare the dribble because it&#8217;s time for a good old fashioned rumble on the catwalk. DEAD MAN DIVIN!</p>
+<p><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/7040760/0660e39c566810942068c8dad633280de5850ed1.jpg" alt="Layout of da_holdingcell" /></p>
+<p>Also included are translations submitted by our community&#8217;s very own IZUMI WING &#8211; You would have seen that name taking top position on the scoreboards and now you can see it in CHINESE! Much thanks to our dedicated players for keeping the dream alive. We know it&#8217;s been quiet on the western front but your dedication means the world to us. Keep it coming and don&#8217;t stop diving!</p>
+<p>- The DA team</p>
+</p>
+
+								<div class="share-post"><ul><li>
+									<div id="fb-root"></div>
+									<script>(function(d, s, id) {
+										var js, fjs = d.getElementsByTagName(s)[0];
+										if (d.getElementById(id)) return;
+										js = d.createElement(s); js.id = id;
+										js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+										fjs.parentNode.insertBefore(js, fjs);
+									}(document, 'script', 'facebook-jssdk'));</script>
+									<div class="fb-like" data-href="http://www.doubleactiongame.com/double-action-1-3-i-said-id-be-back/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+								</li></ul></div>
+
+								<div style="height: 1px; background-color: black; margin-top: 60px;"></div>
+			                			                    <p><a class="blogtitle" href="http://www.doubleactiongame.com/double-action-boogaloo-v1-2-2-2/">Double Action: Boogaloo, v1.2.2.2</a><br /><span class="blogbyline">May 28, 2017 - by Vino</span></p>
+			                    <p><p>This server-side patch fixes a rounding error in the vote tallying system, leading to votes failing unless there is no counter-vote.</p>
+<p>Windows and Linux Steam clients will also automatically update the local server component. This update is not necessary in order to effectively participate in votes.</p>
+<p>Sorry for taking so long to catch this <img src="http://www.doubleactiongame.com/wp/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>PS: Again with apologies to people hosting hands-off servers on a Mac, we&#8217;re only releasing this bug fix for Windows and Linux. Mac users can still join v1.2.2.2 servers with v1.2.2.</p>
+</p>
+
+								<div class="share-post"><ul><li>
+									<div id="fb-root"></div>
+									<script>(function(d, s, id) {
+										var js, fjs = d.getElementsByTagName(s)[0];
+										if (d.getElementById(id)) return;
+										js = d.createElement(s); js.id = id;
+										js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+										fjs.parentNode.insertBefore(js, fjs);
+									}(document, 'script', 'facebook-jssdk'));</script>
+									<div class="fb-like" data-href="http://www.doubleactiongame.com/double-action-boogaloo-v1-2-2-2/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+								</li></ul></div>
+
+								<div style="height: 1px; background-color: black; margin-top: 60px;"></div>
+			                			                    <p><a class="blogtitle" href="http://www.doubleactiongame.com/beware-of-cheaters/">Beware of cheaters</a><br /><span class="blogbyline">May 27, 2017 - by Vino</span></p>
+			                    <p><p>Hello folks.</p>
+<p>Over the course of this weekend we&#8217;re expecting an increased number of cheaters using Double Action.</p>
+<p>During this phase, and in general, please be extremely careful when encountering cheaters. Some recently surfaced cheats are known to be able to expose your external IP address to the cheater. Using that IP address, the cheater could, criminal energy provided, exploit vulnerabilities in your router, operating system and other services in order to damage or take over your computer and other devices on your network.</p>
+<p>There&#8217;s a certain risk associated with anything on the internet. The ability to expose a user&#8217;s IP address comes from a fault in Source Engine, Valve&#8217;s game engine, and not from the Double Action codebase. Cheaters ruin the experience for everyone else and I wish we could remove them entirely, but as a free game we lack the resources to do so. Double Action is a game about being stylish in a fun way, and cheaters are the least stylish thing of all. I&#8217;m sorry we weren&#8217;t able to avoid cheaters.</p>
+<p>When cheaters do show up on a server:<br />
+* Keep calm<br />
+* Do not engage<br />
+* Do not rage<br />
+* Seek another server</p>
+<p>In other words, be your regular classy and stylish self. And most importantly, do not allow them to ruin your day <img src="http://www.doubleactiongame.com/wp/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+</p>
+
+								<div class="share-post"><ul><li>
+									<div id="fb-root"></div>
+									<script>(function(d, s, id) {
+										var js, fjs = d.getElementsByTagName(s)[0];
+										if (d.getElementById(id)) return;
+										js = d.createElement(s); js.id = id;
+										js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+										fjs.parentNode.insertBefore(js, fjs);
+									}(document, 'script', 'facebook-jssdk'));</script>
+									<div class="fb-like" data-href="http://www.doubleactiongame.com/beware-of-cheaters/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+								</li></ul></div>
+
+								<div style="height: 1px; background-color: black; margin-top: 60px;"></div>
+			                					<a href="/blog/page/2/" style="font-size: large; padding: 10px;">&laquo; More posts</a>
+				</div>
+
+	        
+		</div></div>
+
+		<div id="rightbar">
+			<div class="rightbarsection">
+				<a class="socialbutton" href="https://www.facebook.com/2xaction"><img src="/wp/wp-content/themes/doubleaction/images/social-facebook.png" /></a>
+				<a class="socialbutton" href="http://steamcommunity.com/groups/2x_action"><img src="/wp/wp-content/themes/doubleaction/images/social-steamgroup.png" /></a>
+				<a class="socialbutton" href="http://www.doubleactiongame.com/rss"><img src="/wp/wp-content/themes/doubleaction/images/social-subscribe.png" /></a>
+				<a class="socialbutton" href="https://www.twitter.com/vinobs"><img src="/wp/wp-content/themes/doubleaction/images/social-twitter.png" /></a>
+				<a class="donatebutton" href="http://www.doubleactiongame.com/double-action-development-fund/">Support Double Action!</a>
+				<br clear="both" />
+			</div>
+
+			<div class="rightbarsection">
+				<h3>Double Action Style Leaders</h3>
+				<div id='leaderboard_short'><div><strong>Daily Leader:</strong> <a href='http://steamcommunity.com/profiles/76561198168958712'>Pikapac</a> - 38398 style
+</div><div><strong>Weekly Leader:</strong> <a href='http://steamcommunity.com/profiles/76561198005181917'>FreeKnuckleSandwichz {69}</a> - 89731 style
+</div><div><strong>Monthly Leader:</strong> <a href='http://steamcommunity.com/profiles/76561198005181917'>FreeKnuckleSandwichz {69}</a> - 305919 style
+</div><a class='seeall' href='http://data.doubleactiongame.com/leaderboard'>See all</a></div>			</div>
+
+			
+		</div>
+
+<br clear="both" />
+</div>
+
+<hr />
+<script type="text/javascript" src="http://www.doubleactiongame.com/wp/wp-content/cache/minify/000000/jYxLCoAwDEQvpJkKXqitH1Jso8aA3t4PuhdmMW_gDeCT32kUGafez6wUJT8bJg6KtFi_HmioufISZS6UtMIv1_i2HbUv18bfgUMnFi43biwFSTFYebqe.js"></script>
+<div id="footer" role="contentinfo">
+<div class="sitemap"><a class="whitelink" href="/blog">NEWS</a>  | <a class="whitelink" href="/contact">CONTACT</a></div><br />
+<!-- If you'd like to support WordPress, having the "powered by" link somewhere on your blog is the best way; it's our only promotion or advertising. -->
+        <p>
+                Double Action is proudly powered by <a class="whitelink" href="http://wordpress.org/">WordPress</a>
+                <br />All content Copyright &copy; 2022 Double Action Factory
+        </p>
+		<br clear="both" />
+</div>
+
+</body>
+</html>
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Object Caching 296/389 objects using disk
+
+ Served from: localhost @ 2022-05-29 22:37:32 by W3 Total Cache -->
