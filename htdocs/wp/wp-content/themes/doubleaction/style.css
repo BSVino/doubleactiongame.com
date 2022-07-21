@@ -47,7 +47,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @font-face
 {
 	font-family: Franchise;
-	src: url('https://doubleactiongame.com/wp/wp-content/themes/doubleaction/franchise-bold-hinted.ttf');
+	src: url('/wp/wp-content/themes/doubleaction/franchise-bold-hinted.ttf');
 }
 
 .share-post {
@@ -1086,7 +1086,7 @@ span + .edit-link:before,
  */
 
 .post-thumbnail {
-	background: #b2b2b2 url(https://doubleactiongame.com/images/pattern-light.svg) repeat fixed;
+	background: #b2b2b2 url(/images/pattern-light.svg) repeat fixed;
 	display: block;
 	position: relative;
 	width: 100%;
@@ -2786,7 +2786,7 @@ a.post-thumbnail:hover {
  */
 
 .featured-content {
-	background: #000 url('https://doubleactiongame.com/images/pattern-dark.svg') repeat fixed;
+	background: #000 url('/images/pattern-dark.svg') repeat fixed;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing:    border-box;
 	box-sizing:         border-box;
@@ -4277,7 +4277,7 @@ Tags: blue, custom header, fixed width, two columns, widgets
 
 /* Begin Typography & Colors */
 body {
-	background: #222 url('https://doubleactiongame.com/wp/wp-content/themes/doubleaction/images/background.png') repeat center top;
+	background: #222 url('/wp/wp-content/themes/doubleaction/images/background.png') repeat center top;
 	font-size: 62.5%; /* Resets 1em to 10px */
 	font-family: 'Roboto', sans-serif;
 	margin: 0px 0px 0px 0px;
@@ -5034,7 +5034,7 @@ div.aligncenter {
 }
 
 #content_inner {
-	background: #222 url('https://doubleactiongame.com/wp/wp-content/themes/doubleaction/images/light_background.jpg') repeat center top;
+	background: #222 url('/wp/wp-content/themes/doubleaction/images/light_background.jpg') repeat center top;
 	float: left;
 	background-color: #dedede;
 	color: #333;
@@ -5119,7 +5119,7 @@ div.aligncenter {
 	}
 
 #header {
-	background: #222 url('https://doubleactiongame.com/wp/wp-content/themes/doubleaction/images/splash.jpg') no-repeat center top;
+	background: #222 url('/wp/wp-content/themes/doubleaction/images/splash.jpg') no-repeat center top;
 	width:100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -5194,7 +5194,7 @@ ul.dropdown ul li { font-weight: normal; color: #000; float: none; }
 ul.dropdown ul li a { border-right: none; width: 100%; display: inline-block; }
 
 #leaderboard {
-	background: #222 url('https://doubleactiongame.com/wp/wp-content/themes/doubleaction/images/light_background.jpg') repeat center top;
+	background: #222 url('/wp/wp-content/themes/doubleaction/images/light_background.jpg') repeat center top;
 }
 
 #leaderboard table {
